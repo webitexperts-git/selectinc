@@ -1,0 +1,2 @@
+[07-Feb-2020 14:06:55 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Home_model::validate_email() in /home/homeofbulldogs/public_html/dev/freelance/application/modules/home/models/Home_model.php on line 82
+[12-Mar-2020 17:13:56 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Admin::template_request() in /home/homeofbulldogs/public_html/dev/marketing-lobby/application/modules/admin/controllers/Admin.php on line 138
